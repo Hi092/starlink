@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27T14:55:02.163094",
-  "total": 35,
+  "updated": "2026-05-27T15:02:52.786344",
+  "total": 48,
   "anytls": 1,
   "vless": 69,
   "ss": 26,
@@ -213,6 +213,84 @@
       "server": "xlcc.xn--gmq58r4wd.cn",
       "port": 55441,
       "type": "vless"
+    },
+    {
+      "name": "[香港] Hong Kong 1-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 50602,
+      "type": "ss"
+    },
+    {
+      "name": "[香港] Hong Kong 3-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 24173,
+      "type": "ss"
+    },
+    {
+      "name": "[台湾] Taiwan 1-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 40743,
+      "type": "ss"
+    },
+    {
+      "name": "[日本] Japan 1-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 32527,
+      "type": "ss"
+    },
+    {
+      "name": "[日本] Japan 3-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 37431,
+      "type": "ss"
+    },
+    {
+      "name": "[日本] Japan 5-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 25603,
+      "type": "ss"
+    },
+    {
+      "name": "[新加坡] Singapore 1-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 39868,
+      "type": "ss"
+    },
+    {
+      "name": "[新加坡] Singapore 3-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 41560,
+      "type": "ss"
+    },
+    {
+      "name": "[新加坡] Singapore 5-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 52437,
+      "type": "ss"
+    },
+    {
+      "name": "[美国] United States 1-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 21389,
+      "type": "ss"
+    },
+    {
+      "name": "[美国] United States 3-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 41798,
+      "type": "ss"
+    },
+    {
+      "name": "[美国] United States 5-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 33621,
+      "type": "ss"
+    },
+    {
+      "name": "[美国] United States 7-SS",
+      "server": "xlc.xn--gmq58r4wd.cn",
+      "port": 36917,
+      "type": "ss"
     },
     {
       "name": "台湾直连 x0.5",
